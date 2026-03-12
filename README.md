@@ -2,7 +2,7 @@
 
 A static, dependency-free web calculator for clinical and epidemiological sample size estimation. Covers ten scenarios across continuous and dichotomous outcomes using both precision-based and hypothesis-testing approaches — directly replicating R functions from `MESS`, `pwr`, and base R.
 
-🔗 **Live site:** `https://ronaldolum.github.io/sample-size-calculator/`
+🔗 **Live site:** [https://ronaldolum.github.io/sample-size-calculator/](https://ronaldolum.github.io/sample-size-calculator/)
 
 ---
 
